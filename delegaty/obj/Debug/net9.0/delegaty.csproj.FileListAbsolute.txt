@@ -1,0 +1,15 @@
+C:\kod\OOP\oop\delegaty\bin\Debug\net9.0\delegaty.exe
+C:\kod\OOP\oop\delegaty\bin\Debug\net9.0\delegaty.deps.json
+C:\kod\OOP\oop\delegaty\bin\Debug\net9.0\delegaty.runtimeconfig.json
+C:\kod\OOP\oop\delegaty\bin\Debug\net9.0\delegaty.dll
+C:\kod\OOP\oop\delegaty\bin\Debug\net9.0\delegaty.pdb
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.AssemblyInfoInputs.cache
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.AssemblyInfo.cs
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.csproj.CoreCompileInputs.cache
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.sourcelink.json
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.dll
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\refint\delegaty.dll
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.pdb
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\delegaty.genruntimeconfig.cache
+C:\kod\OOP\oop\delegaty\obj\Debug\net9.0\ref\delegaty.dll

@@ -137,8 +137,8 @@ namespace ConsoleApp1
             Console.WriteLine("5. Usuń powiadomienie SMS");
             Console.WriteLine("6. Usuń powiadomienie Push");
             Console.WriteLine("7. Wyślij powiadomienia");
-            Console.WriteLine("8. Wyjdź");
-            Console.WriteLine("9. Pokaż zarejestrowane metody");
+            Console.WriteLine("8. Pokaż zarejestrowane metody");
+            Console.WriteLine("9. Wyjdź");
             Console.Write("Wybierz opcję: ");
         }
 
