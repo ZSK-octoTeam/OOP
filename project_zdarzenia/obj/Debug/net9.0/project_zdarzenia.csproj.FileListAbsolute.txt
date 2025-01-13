@@ -1,0 +1,15 @@
+C:\kod\OOP\oop\project_zdarzenia\bin\Debug\net9.0\project_zdarzenia.exe
+C:\kod\OOP\oop\project_zdarzenia\bin\Debug\net9.0\project_zdarzenia.deps.json
+C:\kod\OOP\oop\project_zdarzenia\bin\Debug\net9.0\project_zdarzenia.runtimeconfig.json
+C:\kod\OOP\oop\project_zdarzenia\bin\Debug\net9.0\project_zdarzenia.dll
+C:\kod\OOP\oop\project_zdarzenia\bin\Debug\net9.0\project_zdarzenia.pdb
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.AssemblyInfoInputs.cache
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.AssemblyInfo.cs
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.csproj.CoreCompileInputs.cache
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.sourcelink.json
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.dll
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\refint\project_zdarzenia.dll
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.pdb
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\project_zdarzenia.genruntimeconfig.cache
+C:\kod\OOP\oop\project_zdarzenia\obj\Debug\net9.0\ref\project_zdarzenia.dll

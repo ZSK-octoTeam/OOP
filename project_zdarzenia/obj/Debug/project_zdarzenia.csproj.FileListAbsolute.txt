@@ -1,7 +1,0 @@
-C:\Users\student\Desktop\project_zdarzenia\obj\Debug\project_zdarzenia.csproj.AssemblyReference.cache
-C:\Users\student\Desktop\project_zdarzenia\obj\Debug\project_zdarzenia.csproj.CoreCompileInputs.cache
-C:\Users\student\Desktop\project_zdarzenia\bin\Debug\project_zdarzenia.exe.config
-C:\Users\student\Desktop\project_zdarzenia\bin\Debug\project_zdarzenia.exe
-C:\Users\student\Desktop\project_zdarzenia\bin\Debug\project_zdarzenia.pdb
-C:\Users\student\Desktop\project_zdarzenia\obj\Debug\project_zdarzenia.exe
-C:\Users\student\Desktop\project_zdarzenia\obj\Debug\project_zdarzenia.pdb
