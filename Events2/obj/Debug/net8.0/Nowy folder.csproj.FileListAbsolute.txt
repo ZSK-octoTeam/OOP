@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Nowy folder\bin\Debug\net8.0\Nowy folder.exe
+C:\Users\student\Desktop\Nowy folder\bin\Debug\net8.0\Nowy folder.deps.json
+C:\Users\student\Desktop\Nowy folder\bin\Debug\net8.0\Nowy folder.runtimeconfig.json
+C:\Users\student\Desktop\Nowy folder\bin\Debug\net8.0\Nowy folder.dll
+C:\Users\student\Desktop\Nowy folder\bin\Debug\net8.0\Nowy folder.pdb
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\Nowy folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\Nowy folder.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\Nowy folder.AssemblyInfo.cs
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\Nowy folder.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\Nowy folder.dll
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\refint\Nowy folder.dll
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\Nowy folder.pdb
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\Nowy folder.genruntimeconfig.cache
+C:\Users\student\Desktop\Nowy folder\obj\Debug\net8.0\ref\Nowy folder.dll
